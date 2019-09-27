@@ -1,0 +1,28 @@
+{"navbar" : [
+	{"title":"Solar Power for Artists", "link" : "http://www.solarpowerforartists.com"},
+	{"title":"Archive", "link" : "http://www.solarpowerforartists.com/archive"},
+	{"title":"Learn", "link" : "http://www.solarpowerforartists.com/learn"},
+	{"title":"About", "link" : "http://www.solarpowerforartists.com/about"},
+	{"title":"Events", "link" : "http://www.solarpowerforartists.com/events.html"},
+	{"title":"Store", "link" : "http://store.solarpowerforartists.com"},
+	{"title":"Contact", "link" : "http://www.solarpowerforartists.com/contact.html"}
+],"Solar Power for Artists":[
+],"Archive" : [
+	{"title": "Browse", "link" : "archive.html"},
+	{"title": "Something Random", "link" : "#"},
+	{"title": "Historic Context", "link" : "context.html"},
+	{"title": "Submissions", "link" : "https://docs.google.com/forms/d/e/1FAIpQLSfq4AFGwtSOnKeMxnlp7sfWs3P0hP0KTaBPzEat0NhrG0GPMw/viewform"}
+],"Learn":[
+	{"title": "Tutorials", "link" : "tutorials.html"},
+	{"title": "Publications", "link" : "outline.html"},
+	{"title": "Glossary", "link" : "glossary.html"},
+	{"title": "3rd Party Resources", "link" : "external.html"}
+], "About":[
+	{"title": "Info", "link" : "index.html"},
+	{"title": "Services", "link" : "services.html"},
+	{"title": "Press", "link" : "press.html"}
+], "Events":[
+], "Store":[
+],
+"Contact":[
+]}
